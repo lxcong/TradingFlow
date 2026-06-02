@@ -16,7 +16,7 @@ trading firm — reproducing its specialized roles and debate dynamics as a sing
 > verify. Output quality depends on the data and models available at run time.
 
 TradingFlow began as the flagship showcase in
-[**awesome-claude-workflows**](https://github.com/lxcong/awesome-claude-workflows) and now lives as
+[**awesome-claude-dynamic-workflows**](https://github.com/lxcong/awesome-claude-dynamic-workflows) and now lives as
 its own repo. New to the feature? See the
 [Dynamic Workflows docs](https://code.claude.com/docs/en/workflows) and the
 [launch post](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code).
